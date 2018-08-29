@@ -22,7 +22,7 @@ OBS: To get the Exif data, you application need to have access permission to the
 If you are using Cordova version 3.3 or later, install the following plugins:
 ```sheel
 cordova plugin add cordova-plugin-camera
-cordova plugin add cordovaplugin-file
+cordova plugin add cordova-plugin-file
 ```
 
 ## What is Exif?
