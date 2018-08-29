@@ -21,8 +21,8 @@ CordovaExif.readData(imageURI, function(exifObject) {
 OBS: To get the Exif data, you application need to have access permission to the file.
 If you are using Cordova version 3.3 or later, install the following plugins:
 ```sheel
-cordova plugin add org.apache.cordova.camera
-cordova plugin add org.apache.cordova.file
+cordova plugin add cordova-plugin-camera
+cordova plugin add cordovaplugin-file
 ```
 
 ## What is Exif?
