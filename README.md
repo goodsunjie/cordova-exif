@@ -86,11 +86,3 @@ function onFail(message) {
 
 navigator.camera.getPicture(onSuccess, onFail, options);
 ```
-
-## About
-
-#### Who?
-Created by [Guilherme Farias](http://guilhermefarias.com/), a web developer from Brazil.
-
-#### License?
-Cordova Exif is released under the terms of the [MIT license](https://github.com/guilhermefarias/CordovaExif/blob/master/MIT-LICENSE).
